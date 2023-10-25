@@ -1,5 +1,10 @@
 package org.example;
 
+import org.example.models.Category;
+import org.example.models.Order;
+import org.example.models.Product;
+import org.example.models.User;
+
 public class Main {
     public static void main(String[] args) {
 

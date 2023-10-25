@@ -1,4 +1,4 @@
-package org.example;
+package org.example.models;
 
 public class User {
     public User(String firstName, String lastName, double wallet) {
